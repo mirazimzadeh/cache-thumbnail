@@ -1,0 +1,17 @@
+{
+  "name": "cache-thumbnail",
+  "version": "1.0.0",
+  "description": "A nodejs thumbnail cache for vyrent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oli Azimi",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.4",
+    "md5": "^2.2.1",
+    "sharp": "^0.22.1"
+  }
+}
